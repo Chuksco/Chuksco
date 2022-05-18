@@ -1,2 +1,2 @@
 # commerce
-Config files for my GitHub profile.
+A simple E-commerce site built with only HTML and CSS
